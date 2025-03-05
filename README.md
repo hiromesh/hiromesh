@@ -1,8 +1,7 @@
-<img src="https://raw.githubusercontent.com/hiromesh/hiromesh/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<p align="left">Software Engineer with expertise in AI Agent systems and LLM applications, specializing in designing and implementing autonomous workflow engines, multi-agent architectures, and Text2Code systems.</p>
+<h4 align="left">Software Engineer with expertise in AI Agent systems and LLM applications, specializing in designing and implementing autonomous workflow engines, multi-agent architectures, and Text2Code systems.</h4>
 
 ###
 
